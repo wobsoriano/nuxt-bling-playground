@@ -1,6 +1,8 @@
-# Nuxt 3 Minimal Starter
+# Nuxt + Bling
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Very basic demo of using [bling](https://github.com/TanStack/bling) with Nuxt.
+
+Does not work with SFC, though.
 
 ## Setup
 
